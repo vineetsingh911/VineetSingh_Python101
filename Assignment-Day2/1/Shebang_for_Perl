@@ -1,0 +1,14 @@
+Shebangs in perl can be written in multiple ways, They are as follows:
+
+1>> #!/bin/sh
+#! -*-perl-*-
+eval 'exec perl -x -wS $0 ${1+"$@"}'
+    if 0;
+
+2>> #!/usr/bin/env perl
+
+3>>#!/usr/bin/perl
+
+4>>#! perl
+
+5>> #! perl.exe

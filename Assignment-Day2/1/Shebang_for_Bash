@@ -1,0 +1,6 @@
+Shebangs of bash(bourne again shell) are:
+
+1>>#!/usr/bin/env bash
+2>>#!/bin/bash
+3>>#!/bin/sh
+4>>#!/bin/sh

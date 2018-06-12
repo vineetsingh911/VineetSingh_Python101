@@ -1,0 +1,5 @@
+dir() is a built-in function used to get a list of all the attributes for an object.
+When we type this on python interpreter we get this as the following output:
+['__annotations__', '__builtins__', '__doc__', '__loader__', '__name__', '__package__', '__spec__']
+
+It asks for entering the attributes in the dir function and returns the objects in current scope.

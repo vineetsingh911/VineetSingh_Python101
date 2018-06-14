@@ -1,0 +1,8 @@
+x=1
+while x!=6:
+    t=0
+    while t!=x:
+     print("*" ,end="")
+     t+=1 
+    print("\n",sep="")
+    x+=1
